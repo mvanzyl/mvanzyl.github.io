@@ -1,1 +1,8 @@
-vz
+NIP19
+
+hexPubKey
+b142434cd5d9ad2fe6255a0d0a3e64b35d1efb345ec638ec91aab2a657608288
+
+nPubKey
+npub1k9pyxnx4mxkjle39tgxs50nykdw3a7e5tmrr3my342e2v4mqs2yqks93ue
+
